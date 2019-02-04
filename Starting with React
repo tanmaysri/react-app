@@ -1,0 +1,8 @@
+1. install node js to use npm (node package manager)
+2. To install react
+    npm i -g create-react-app
+
+3. To create first react app, browse to folder having react  and then trigger
+    create-react-app app_name
+
+4. 
