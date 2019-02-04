@@ -5,4 +5,13 @@
 3. To create first react app, browse to folder having react  and then trigger
     create-react-app app_name
 
-4. 
+4. Default path : C:\Users\a020844\AppData\Roaming\npm
+
+5. navigate to new app path and run following
+    npm start
+    
+6. App.js under src folder is the main page
+
+7. You can use babeljs.io to run the major piece of code
+
+8. 
