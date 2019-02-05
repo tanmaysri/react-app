@@ -14,4 +14,8 @@
 
 7. You can use babeljs.io to run the major piece of code
 
-8. 
+8. Install bootstrap
+    in the folder of the app do following
+    npm i bootstrap@4.1.1 (version specified to make sure we are in sync with tutorial)
+
+9. install browser extension "React Developer Tools"
